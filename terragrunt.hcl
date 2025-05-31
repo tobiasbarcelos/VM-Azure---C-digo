@@ -16,7 +16,7 @@ inputs = {
   admin_username      = "adminuser"
   admin_password      = "P@ssw0rd1234!"
   vnet2_resource_group_name = "existing-resource-group-vnet2"
-  domain_name         = "midelinx.com.br"
-  domain_username     = "tobias_barcelos@midelinx.com.br"
+  domain_name         = "teste.local"
+  domain_username     = "tobias_barcelos@teste.local"
   domain_password     = "Vwn7CuhUr4726wQ1"
 }
